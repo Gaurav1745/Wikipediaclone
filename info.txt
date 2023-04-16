@@ -1,0 +1,43 @@
+<div class="single">
+    <h4>English</h4>
+    <p>6 383 000+ articles</p>
+</div>
+<div class="single">
+    <h4>Русский</h4>
+    <p>1 756 000+ статей</p>
+</div>
+<div class="single">
+    <h4>Español</h4>
+    <p>1 717 000+ artículos</p>
+</div>
+<div class="single">
+    <h4>中文</h4>
+    <p>1 231 000+ 條目</p>
+</div>
+<div class="single">
+    <h4>Polski</h4>
+    <p>1 490 000+ haseł</p>
+</div>
+
+https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png
+
+<div class="single">
+    <h4>日本語</h4>
+    <p>1 292 000+ 記事</p>
+</div>
+<div class="single">
+    <h4>Deutsch</h4>
+    <p>2 617 000+ Artikel</p>
+</div>
+<div class="single">
+    <h4>Français</h4>
+    <p>2 362 000+ articles</p>
+</div>
+<div class="single">
+    <h4>Italiano</h4>
+    <p>1 718 000+ voci</p>
+</div>
+<div class="single">
+    <h4>Português</h4>
+    <p>1 074 000+ artigos</p>
+</div>
