@@ -1,2 +1,2 @@
 # Wikipedia clone
-This is the front page clone for wikipedia
+This is the front page clone for wikipedia.
